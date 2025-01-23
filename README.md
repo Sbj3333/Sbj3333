@@ -18,8 +18,9 @@
     </a>
   </div>
 
+  <h1></h1>
   <div align="center">
     <h2>About me</h2>
-    <p>A curious mind which questions everything and loves to understand how everything works. Fascinated by the power of computers and the way they revolutionize the world. A full stack developer diving deep in the field of cybersecurity.</p>
+    <p>A curious mind which questions everything and loves to understand how everything works. Fascinated by the power of computers and the way they revolutionize the world. A full stack developer diving deep in the field of cybersecurity. Apart from tech, I'm an artist, video editor, music lover, beginner on the guitar</p>
   </div>
 </div>
