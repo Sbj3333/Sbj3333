@@ -25,10 +25,10 @@
   </div>
 
   <div align="center">
-    <h3>My Partners in crime</h3>
+    <h2>My Partners in crime</h2>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,react,anaaconda,arduino,aws,bash,c,cpp,docker,express,npm,node,firebase,mongodb,git,github,go,linux,neovim,vim,opencv,p5js,sublime,vscode,tailwind,tensorflow,ubuntu)" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,anaconda,arduino,aws,bash,c,cpp,docker,express,npm,nodejs,firebase,mongodb,git,github,go,linux,neovim,vim,opencv,p5js,sublime,vscode,tailwind,tensorflow,ubuntu" />
       </a>
     </p>
 
