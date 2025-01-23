@@ -23,4 +23,14 @@
     <h2>About me</h2>
     <p>A curious mind which questions everything and loves to understand how everything works. Fascinated by the power of computers and the way they revolutionize the world. A full stack developer diving deep in the field of cybersecurity. Apart from tech, I'm an artist, video editor, music lover, beginner on the guitar.</p>
   </div>
+
+  <div align="center">
+    <h3>My Partners in crime</h3>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,react,anaaconda,arduino,aws,bash,c,cpp,docker,express,npm,node,firebase,mongodb,git,github,go,linux,neovim,vim,opencv,p5js,sublime,vscode,tailwind,tensorflow,ubuntu)" />
+      </a>
+    </p>
+
+  </div>
 </div>
