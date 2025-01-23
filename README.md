@@ -17,4 +17,9 @@
       <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
     </a>
   </div>
+
+  <div align="center">
+    <h2>About me</h2>
+    <p>A curious mind which questions everything and loves to understand how everything works. Fascinated by the power of computers and the way they revolutionize the world. A full stack developer diving deep in the field of cybersecurity.</p>
+  </div>
 </div>
